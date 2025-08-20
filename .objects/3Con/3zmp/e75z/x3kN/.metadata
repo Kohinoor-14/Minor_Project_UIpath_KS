@@ -1,0 +1,14 @@
+﻿{
+  "Name": "31°C(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "x3kNvjTqd0a8Jmugg01Krg",
+  "Reference": "CCBMKP9tDEC3E2IdgQae-g/x3kNvjTqd0a8Jmugg01Krg",
+  "ParentRef": "CCBMKP9tDEC3E2IdgQae-g/e75zZti-h0C70m4f_YMfQA",
+  "Created": "2025-08-10T10:49:17.5695668Z",
+  "Updated": "2025-08-10T10:49:17.5695668Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "31°C",
+  "Type": "Element",
+  "Id": "3mKMLbvXU0O74QZa83NwQQ",
+  "Reference": "CCBMKP9tDEC3E2IdgQae-g/3mKMLbvXU0O74QZa83NwQQ",
+  "ParentRef": "CCBMKP9tDEC3E2IdgQae-g/e75zZti-h0C70m4f_YMfQA",
+  "Created": "2025-08-10T10:41:00.825185Z",
+  "Updated": "2025-08-10T10:41:00.825185Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

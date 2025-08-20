@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fm6HMiT8h0KVftHew2ulJg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bing.com/search" CVScreenId="e14db11c-4763-4e3e-807b-cdedd48d6cd2" CvType="AnyWordGroup" DesignTimeRectangle="239, 581, 216, 90" FullSelectorArgument="&lt;webctrl class='wzc-temp-left' tag='DIV' /&gt;" Guid="7e0f08b0-307b-4a5f-8d69-3543a82cd4df" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Weather in bubaneshwar - Search' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e14db11c-4763-4e3e-807b-cdedd48d6cd2" CvTextArea="484, 595, 142, 27" CvTextArgument="Partly sunny" CvType="Text" DesignTimeRectangle="485, 591, 374, 32" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Partly sunny' tag='DIV' type='' class='w4g-t20-c1 w4g-l-text' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Partly sunny' /&gt;" Guid="66cdcecf-b60b-44c5-a1e9-5c37d23fe81b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b80d3667b410d7df09f0035bb2113e68.png" xmlns="">0mwNk3_UzN0KGGgDvw7ot_w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

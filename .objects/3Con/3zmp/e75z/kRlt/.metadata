@@ -1,0 +1,14 @@
+﻿{
+  "Name": "33°C(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "kRltQlEpiE-crH_cM4v05A",
+  "Reference": "CCBMKP9tDEC3E2IdgQae-g/kRltQlEpiE-crH_cM4v05A",
+  "ParentRef": "CCBMKP9tDEC3E2IdgQae-g/e75zZti-h0C70m4f_YMfQA",
+  "Created": "2025-08-10T10:53:36.7742559Z",
+  "Updated": "2025-08-10T10:53:36.7742559Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
